@@ -1,0 +1,55 @@
+/* 1º cessão ou div*/
+div {
+    background-color: #f5f5f5;
+    padding: 50px;
+    text-align: center;
+    border-bottom: 1px solid #d5d5d5;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: Tahoma;
+    
+}
+
+h2 {
+    font-size: 24px;
+    font-family: Tahoma;
+}
+
+img {
+    width: 190px;
+}
+
+p {
+    font-family: Tahoma;
+    text-align: center;
+    line-height: 28px;
+    width: 930px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a {
+    background-color: green;
+    border-radius: 25px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bolder;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+
+/* 2° cessão ou div */
+
+h3 {
+    font-size: 20px;
+    font-family: Tahoma;
+
+}
+
+span {
+    font-weight: bold;
+    font-family: Tahoma;
+}
